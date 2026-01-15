@@ -1,0 +1,31 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Avalonia_SukiUIObj.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:suki="clr-namespace:SukiUI.Controls;assembly=SukiUI"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Avalonia_SukiUIObj.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Avalonia_SukiUIObj" Padding="30">
+
+    <StackPanel Spacing="20">
+        
+        <TextBlock Text="這是一個標準 Window" FontSize="20" FontWeight="Bold"/>
+
+        <Button x:Name="B1" Classes="Primary" Content="主要按鈕"  Background="Red" BorderBrush="Red" Foreground="Green" Click="B1_Click"/>
+        <Button x:Name="B2" Classes="Accent" Content="強調按鈕"  Background="Green" BorderBrush="Green" Foreground="Red" Click="B2_Click" />
+        <Button x:Name="B3" Classes="Flat" Content="扁平按鈕"  Background="Pink" Click="B3_Click" />
+
+        <suki:GlassCard Width="300" HorizontalAlignment="Left">
+            <StackPanel Spacing="10">
+                <TextBlock Text="Suki Glass Card" FontWeight="Bold"/>
+                <TextBlock Text="這是在不使用 SukiWindow 的情況下渲染的。" TextWrapping="Wrap"/>
+            </StackPanel>
+        </suki:GlassCard>
+
+
+    </StackPanel>
+
+</Window>
