@@ -1,0 +1,7 @@
+Avalonia 專案 安裝 SukiUI 版本號為6.0.3 套件
+當App.axaml加上 <sukiUi:SukiTheme ThemeColor="Blue" Locale="zh-TW" /> 語法
+若MainWindow.axaml也將類別Window置換成SukiWindow 那麼此時，我要如何定義該MainWindow的背景色設定為不具漸層的正綠色
+
+======================
+
+https://gemini.google.com/share/a40331eda759

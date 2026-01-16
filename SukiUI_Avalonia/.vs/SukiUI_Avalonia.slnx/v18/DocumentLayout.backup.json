@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\A-example-of-using-Avalonia-s-SukiUI-components\\SukiUI_Avalonia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\sukiui_avalonia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\sukiui_avalonia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\sukiui_avalonia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\sukiui_avalonia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EC7692-8B6F-44B0-81DE-6AC8B04279D5}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|c:\\users\\user\\desktop\\github\\a-example-of-using-avalonia-s-sukiui-components\\sukiui_avalonia\\sukiui_avalonia\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA8BE81-F694-3E92-9D08-66D2B9C5B8FF}|SukiUI_Avalonia\\SukiUI_Avalonia.csproj|solutionrelative:sukiui_avalonia\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\A-example-of-using-Avalonia-s-SukiUI-components\\SukiUI_Avalonia\\SukiUI_Avalonia\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "SukiUI_Avalonia\\Views\\MainWindow.axaml.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.axaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\A-example-of-using-Avalonia-s-SukiUI-components\\SukiUI_Avalonia\\SukiUI_Avalonia\\App.axaml",
               "RelativeDocumentMoniker": "SukiUI_Avalonia\\App.axaml",
@@ -71,8 +71,7 @@
               "RelativeToolTip": "SukiUI_Avalonia\\App.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:59:10.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:59:10.697Z"
             },
             {
               "$type": "Document",
@@ -83,12 +82,11 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\A-example-of-using-Avalonia-s-SukiUI-components\\SukiUI_Avalonia\\SukiUI_Avalonia\\SukiUI_Avalonia.csproj",
               "RelativeToolTip": "SukiUI_Avalonia\\SukiUI_Avalonia.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T01:33:48.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:33:48.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\A-example-of-using-Avalonia-s-SukiUI-components\\SukiUI_Avalonia\\SukiUI_Avalonia\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "SukiUI_Avalonia\\Views\\MainWindow.axaml",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "SukiUI_Avalonia\\ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T01:32:24.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T01:32:24.612Z"
             }
           ]
         }
