@@ -5,6 +5,7 @@ https://gemini.google.com/share/1262dfbb84b6
 https://gemini.google.com/share/98beaa4104e5
 https://gemini.google.com/share/4cad48a24b96
 https://gemini.google.com/share/e232491a33f5
+https://gemini.google.com/share/830cb08aacab
 
 相關GITHUB: https://github.com/kikipoulet/SukiUI
 

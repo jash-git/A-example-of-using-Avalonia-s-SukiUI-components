@@ -11,6 +11,56 @@
         Background="Gray"
         Title="Avalonia_SukiUIObj" Padding="30">
 
+<Window.Styles>
+    <Style Selector="TextBox.ForceBlue">
+        <Setter Property="Foreground" Value="Red" />
+        <Setter Property="CaretBrush" Value="White" />
+
+        <Style Selector="^ /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+            <Setter Property="Opacity" Value="1" /> <Setter Property="BorderBrush" Value="Transparent" />
+        </Style>
+
+        <Style Selector="^:pointerover /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+        </Style>
+        <Style Selector="^:focus /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+        </Style>
+    </Style>
+
+    <Style Selector="TextBox.ForceBlue01">
+        <Setter Property="Foreground" Value="Red" />
+        <Setter Property="CaretBrush" Value="White" />
+        <Setter Property="Background" Value="Blue" />
+
+        <Style Selector="^ /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+            <Setter Property="Opacity" Value="1" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+        </Style>
+
+        <Style Selector="^ /template/ ContentPresenter#PART_ContentPresenter">
+            <Setter Property="Background" Value="Transparent" />
+        </Style>
+
+        <Style Selector="^:pointerover /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+        </Style>
+        <Style Selector="^:focus /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="Blue" />
+        </Style>
+        
+        <Style Selector="^:disabled /template/ Border#PART_BorderElement">
+            <Setter Property="Background" Value="DarkBlue" />
+            <Setter Property="Opacity" Value="0.5" />
+        </Style>
+    </Style>
+
+
+</Window.Styles>
+
+
     <StackPanel Spacing="20">
         
         <TextBlock Text="這是一個標準 Window" FontSize="20" FontWeight="Bold"/>
@@ -54,6 +104,42 @@
                     </Style>
                 </CheckBox.Styles>
             </CheckBox>
+
+            <TextBox FontSize="20" Background="Blue" Foreground="Red" BorderBrush="Transparent" SelectionBrush="Yellow">
+            </TextBox>
+
+            <TextBox Classes="ForceBlue" Text="現在應該是純藍底紅字了" />
+            <TextBox Classes="ForceBlue01" Text="現在應該是純藍底紅字了" />
+            <Border Background="Blue" 
+                    CornerRadius="6" 
+                    Padding="0"
+                    Width="200" 
+                    HorizontalAlignment="Left">
+                <TextBox Text="現在絕對是藍底紅字"
+                         Foreground="Red"
+                         BorderThickness="0"
+                         Padding="10,5"
+                         Background="Transparent">
+                    <TextBox.Styles>
+                        <Style Selector="TextBox">
+                            <Setter Property="Background" Value="Transparent" />
+                        </Style>
+                        <Style Selector="TextBox /template/ Border#PART_BorderElement">
+                            <Setter Property="Background" Value="Transparent" />
+                            <Setter Property="BorderBrush" Value="Transparent" />
+                        </Style>
+                        <Style Selector="TextBox /template/ Border#BgHost">
+                            <Setter Property="IsVisible" Value="False" />
+                        </Style>
+                        <Style Selector="TextBox:focus /template/ Border#PART_BorderElement">
+                            <Setter Property="Background" Value="Transparent" />
+                        </Style>
+                        <Style Selector="TextBox:pointerover /template/ Border#PART_BorderElement">
+                            <Setter Property="Background" Value="Transparent" />
+                        </Style>
+                    </TextBox.Styles>
+                </TextBox>
+            </Border>
     </StackPanel>
 
 </Window>
