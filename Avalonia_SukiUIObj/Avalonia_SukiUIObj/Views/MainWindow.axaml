@@ -8,6 +8,7 @@
         x:Class="Avalonia_SukiUIObj.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
+        Background="Gray"
         Title="Avalonia_SukiUIObj" Padding="30">
 
     <StackPanel Spacing="20">
@@ -25,7 +26,34 @@
             </StackPanel>
         </suki:GlassCard>
 
+            <CheckBox Content="放大後的選項" RenderTransformOrigin="0.5,0.5">
+                <CheckBox.RenderTransform>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5" />
+                </CheckBox.RenderTransform>
+            </CheckBox>
+            <CheckBox Content="自定義樣式" RenderTransformOrigin="0.5,0.5">
+                <CheckBox.RenderTransform>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5" />
+                </CheckBox.RenderTransform>
+                <CheckBox.Styles>
+                    <Style Selector="CheckBox AccessText">
+                        <Setter Property="Foreground" Value="Blue" />
+                    </Style>
+                    <Style Selector="CheckBox TextBlock">
+                        <Setter Property="Foreground" Value="Blue" />
+                    </Style>
 
+                    <Style Selector="CheckBox:pointerover AccessText, CheckBox:checked AccessText">
+                        <Setter Property="Foreground" Value="Blue" />
+                    </Style>
+
+                    <Style Selector="CheckBox">
+                        <Style.Resources>
+                            <SolidColorBrush x:Key="SukiPrimaryColor">Purple</SolidColorBrush>
+                        </Style.Resources>
+                    </Style>
+                </CheckBox.Styles>
+            </CheckBox>
     </StackPanel>
 
 </Window>
